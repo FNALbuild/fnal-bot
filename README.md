@@ -3,7 +3,7 @@
 [cms-bot](https://github.com/cms-sw/cms-bot) started as a single script used to drive PR approval and grew to
 be the core of the whole release engineering process for CMSSW.
 
-This fork of cms-bot has been modified to work with the Fermilab Jenkins infrastructure.
+This subset of cms-bot scripts has been modified to work with the Fermilab Jenkins infrastructure.
 
 # Setup
 
